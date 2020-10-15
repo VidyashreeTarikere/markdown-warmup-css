@@ -1,0 +1,25 @@
+h1{
+    background : url(https://i2.wp.com/churumuri.blog/wp-content/uploads/2010/08/illuminated_mysore_palace.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 800%;
+    color: whitesmoke;
+}
+
+h5{
+    font-family:'Roboto', sans-serif;
+    font-size: 2rem;
+}
+
+h4{
+    font-family:'Roboto', sans-serif;
+    font-size: 1.5rem;
+    color : pink;
+}
+
+body{
+    font-family: font-family: 'Roboto', sans-serif;;
+    font-size: 1rem;
+    background : rgb(0,0,0);
+    color : blue;
+}
